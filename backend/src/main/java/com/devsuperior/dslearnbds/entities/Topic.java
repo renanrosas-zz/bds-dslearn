@@ -134,8 +134,6 @@ public class Topic implements Serializable {
 	public Set<User> getLikes() {
 		return likes;
 	}
-	
-	
 
 	public Reply getAnswer() {
 		return answer;
